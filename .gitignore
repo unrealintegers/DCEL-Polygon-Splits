@@ -1,0 +1,4 @@
+*.o
+voronoi1
+data/
+visualisation_source.py
